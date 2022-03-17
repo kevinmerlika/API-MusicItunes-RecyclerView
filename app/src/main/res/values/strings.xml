@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework_2</string>
+    <string name="artistName">Artist: %1$s</string>
+    <string name="collectionName">Collection: %1$s</string>
+    <string name="trackPrice">Price %1$s Dollars</string>
+    <string-array name="musicGenre">
+        <item>pop</item>
+        <item>rock</item>
+        <item>classic</item>
+    </string-array>
+</resources>
